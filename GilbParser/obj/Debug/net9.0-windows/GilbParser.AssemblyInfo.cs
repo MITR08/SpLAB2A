@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GilbParser")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90d57ba05d61af65527f3c55ae1b09a3b4fb8f10")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ea8d326e483bafcd360ae474a3e7de8fa95bb9a")]
 [assembly: System.Reflection.AssemblyProductAttribute("GilbParser")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GilbParser")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
